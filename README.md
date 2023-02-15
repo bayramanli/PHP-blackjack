@@ -2,4 +2,4 @@
 Blackjack 21 game
 
 ## DEMO
-[Proje demosu](https://bablackjack.000webhostapp.com)
+[Proje demosu](https://blackjack21game.000webhostapp.com)
